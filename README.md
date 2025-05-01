@@ -155,13 +155,13 @@ void loop() {
 ## روابط التحميل
 | الإصدار | الرابط |
 |--------|-------|
-| الإصدار 1 | [تحميل الملف ZIP](https://pymo.pro/download/v1) |
+| الإصدار 1 | [تحميل الملف ZIP](https://docs.pymo.pro) |
 
 ---
 
 ## حقوق الملكية
 © 2023 PYMO PRO. جميع الحقوق محفوظة.
 
-تصميم وبرمجة: [فريق PYMO PRO](https://pymo.pro/contact).  
+تصميم وبرمجة: [فريق PYMO PRO](https;//pymo.pro).  
 PYMO PRO AI ®
 ```
